@@ -39,7 +39,7 @@ Agentic-AI-Studio/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Agentic-AI-Studio.git
+git clone https://github.com/manju79960/Agentic-AI-Studio.git
 cd Agentic-AI-Studio
 ```
 
